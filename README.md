@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://twitter.com/arsh_goyal"><img src="https://img.shields.io/badge/@arsh__goyal-000000?style=flat&logo=x&logoColor=white" alt="X / Twitter"></a>
+  <a href="https://www.linkedin.com/in/arshgoyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:business.arshgoyal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-brightgreen?style=flat" alt="Open to work">
   <img src="https://komarev.com/ghpvc/?username=businessarshgoyal&style=flat&color=blue" alt="Profile views">
